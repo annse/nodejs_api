@@ -1,2 +1,2 @@
 # nodejs_api
-Node.js/Express RestAPIs Example
+Node.js/Express RestAPI Example
